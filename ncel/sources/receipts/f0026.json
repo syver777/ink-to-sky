@@ -1,0 +1,918 @@
+{
+  "tool": "northcel-fit/1",
+  "mode": "stacked",
+  "input_rgb_sha256": "79f0e05c3ee7d317998e9aa6085c8086d53ef2b923e7ac61639c7f839bbbbabb",
+  "paper_rgb": [
+    254,
+    254,
+    254
+  ],
+  "libraries": {
+    "numpy": "2.5.3",
+    "PIL": "12.3.0",
+    "cv2": "5.0.0",
+    "skimage": "0.26.0"
+  },
+  "colors": 6,
+  "tolerance_px": 0.6,
+  "min_area_px2": 2.0,
+  "cell_edges": false,
+  "masked": false,
+  "gap_fraction": 0.5,
+  "underpaint_min_area_px2": 300.0,
+  "ink_rgb": null,
+  "hole_min_area_px2": 30.0,
+  "shapes": 31,
+  "kinds": {
+    "region": 24,
+    "gap": 7
+  },
+  "largest_area_px2": 132838.5,
+  "canvas_area_px2": 1572864,
+  "shape_manifest": [
+    {
+      "id": "s1de66d3851",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 132838.5,
+      "bbox": [
+        628.0,
+        25.0,
+        907.0,
+        952.0
+      ],
+      "centroid": [
+        767.36,
+        375.2
+      ],
+      "parent": null,
+      "children": [
+        "s3af4ddbbda",
+        "sefebd4dc28",
+        "s95d4bd0f43",
+        "s295d5feb80",
+        "s4956ae637a",
+        "s1c533e9f59",
+        "s1d78c36300",
+        "seedf9f5ff2",
+        "s6b1aa9d6cd",
+        "sb162d973b9"
+      ],
+      "neighbours": [
+        "s295d5feb80",
+        "s07a7fa2294",
+        "s4fcc7c0df9"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s3af4ddbbda",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 45683.0,
+      "bbox": [
+        669.0,
+        43.0,
+        864.0,
+        338.0
+      ],
+      "centroid": [
+        765.82,
+        192.5
+      ],
+      "parent": "s1de66d3851",
+      "children": [
+        "sb47c0b757f",
+        "sa018b6c5ee",
+        "s5c858a9cce",
+        "s35e22a35b2",
+        "s881e837b00",
+        "s56de198fec",
+        "s81e5d33550",
+        "s44c3fca1f5",
+        "sdef112b027",
+        "s848e7dba71",
+        "s6607ede29b",
+        "s3d6a8fafaf",
+        "s6218b02950",
+        "s25d1602038"
+      ],
+      "neighbours": [
+        "s35e22a35b2",
+        "sa018b6c5ee",
+        "sb47c0b757f"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "sefebd4dc28",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 1095.0,
+      "bbox": [
+        645.0,
+        172.0,
+        669.0,
+        237.0
+      ],
+      "centroid": [
+        656.99,
+        204.9
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "s5c858a9cce",
+        "s1d78c36300",
+        "s35e22a35b2"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "s95d4bd0f43",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 1178.25,
+      "bbox": [
+        865.5,
+        172.0,
+        889.0,
+        237.0
+      ],
+      "centroid": [
+        876.72,
+        204.1
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "seedf9f5ff2",
+        "sa018b6c5ee",
+        "s35e22a35b2"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "s295d5feb80",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 1605.75,
+      "bbox": [
+        740.0,
+        338.0,
+        795.0,
+        374.0
+      ],
+      "centroid": [
+        767.18,
+        355.88
+      ],
+      "parent": "s1de66d3851",
+      "children": [
+        "s07a7fa2294"
+      ],
+      "neighbours": [
+        "s1de66d3851",
+        "s07a7fa2294",
+        "s81e5d33550"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "s4956ae637a",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 48609.69,
+      "bbox": [
+        638.0,
+        356.0,
+        897.0,
+        631.0
+      ],
+      "centroid": [
+        767.54,
+        492.48
+      ],
+      "parent": "s1de66d3851",
+      "children": [
+        "se124607d80",
+        "s420d7ff64e",
+        "s4fcc7c0df9"
+      ],
+      "neighbours": [
+        "s1de66d3851",
+        "s295d5feb80",
+        "sb162d973b9"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "se124607d80",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 6804.25,
+      "bbox": [
+        851.0,
+        484.0,
+        903.0,
+        701.0
+      ],
+      "centroid": [
+        877.66,
+        590.01
+      ],
+      "parent": "s4956ae637a",
+      "children": [],
+      "neighbours": [
+        "sb162d973b9",
+        "s4956ae637a",
+        "s420d7ff64e"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "s420d7ff64e",
+      "color": [
+        254,
+        254,
+        254
+      ],
+      "area": 6786.5,
+      "bbox": [
+        633.0,
+        485.0,
+        684.0,
+        700.0
+      ],
+      "centroid": [
+        657.56,
+        590.41
+      ],
+      "parent": "s4956ae637a",
+      "children": [],
+      "neighbours": [
+        "s4956ae637a",
+        "se124607d80",
+        "s44c3fca1f5"
+      ],
+      "kind": "gap"
+    },
+    {
+      "id": "s1c533e9f59",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 2176.75,
+      "bbox": [
+        749.0,
+        677.0,
+        786.0,
+        952.0
+      ],
+      "centroid": [
+        767.89,
+        816.65
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "s4956ae637a",
+        "se124607d80",
+        "s420d7ff64e"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "sb47c0b757f",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 192.5,
+      "bbox": [
+        740.0,
+        254.0,
+        788.0,
+        264.0
+      ],
+      "centroid": [
+        764.72,
+        259.89
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s81e5d33550",
+        "s35e22a35b2",
+        "s3af4ddbbda"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "sa018b6c5ee",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 161.75,
+      "bbox": [
+        796.0,
+        155.0,
+        810.0,
+        170.0
+      ],
+      "centroid": [
+        802.84,
+        162.21
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s56de198fec",
+        "s3af4ddbbda",
+        "s35e22a35b2"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s5c858a9cce",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 152.25,
+      "bbox": [
+        712.0,
+        155.0,
+        724.0,
+        170.0
+      ],
+      "centroid": [
+        718.07,
+        162.23
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s881e837b00",
+        "s96aca7d0fc",
+        "s3af4ddbbda"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s35e22a35b2",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 131.75,
+      "bbox": [
+        749.0,
+        193.0,
+        771.0,
+        209.0
+      ],
+      "centroid": [
+        760.23,
+        202.13
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s3af4ddbbda",
+        "sb47c0b757f",
+        "s81e5d33550"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s881e837b00",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 113.0,
+      "bbox": [
+        700.0,
+        116.0,
+        728.0,
+        128.0
+      ],
+      "centroid": [
+        713.38,
+        120.12
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [
+        "s96aca7d0fc"
+      ],
+      "neighbours": [
+        "s96aca7d0fc",
+        "s5c858a9cce",
+        "s1d78c36300"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s56de198fec",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 111.25,
+      "bbox": [
+        793.0,
+        116.0,
+        821.0,
+        128.0
+      ],
+      "centroid": [
+        807.66,
+        120.49
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "sa018b6c5ee",
+        "seedf9f5ff2",
+        "s6218b02950"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s81e5d33550",
+      "color": [
+        17,
+        20,
+        22
+      ],
+      "area": 11.5,
+      "bbox": [
+        760.0,
+        276.0,
+        768.0,
+        278.0
+      ],
+      "centroid": [
+        764.0,
+        277.0
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "sb47c0b757f",
+        "s35e22a35b2",
+        "s295d5feb80"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s1d78c36300",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 8.75,
+      "bbox": [
+        667.0,
+        106.0,
+        670.0,
+        114.0
+      ],
+      "centroid": [
+        668.5,
+        110.48
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "s96aca7d0fc",
+        "s881e837b00",
+        "s25d1602038"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s44c3fca1f5",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 8.5,
+      "bbox": [
+        701.0,
+        312.0,
+        710.0,
+        321.0
+      ],
+      "centroid": [
+        705.5,
+        316.5
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [
+        "sebef70d718"
+      ],
+      "neighbours": [
+        "sebef70d718",
+        "s81e5d33550",
+        "s295d5feb80"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "sdef112b027",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 7.5,
+      "bbox": [
+        823.0,
+        308.0,
+        831.0,
+        316.0
+      ],
+      "centroid": [
+        827.0,
+        312.0
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s07a7fa2294",
+        "s81e5d33550",
+        "s4fcc7c0df9"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "sebef70d718",
+      "color": [
+        145,
+        109,
+        81
+      ],
+      "area": 6.5,
+      "bbox": [
+        705.0,
+        309.0,
+        712.0,
+        316.0
+      ],
+      "centroid": [
+        708.5,
+        312.5
+      ],
+      "parent": "s44c3fca1f5",
+      "children": [],
+      "neighbours": [
+        "s44c3fca1f5",
+        "s81e5d33550",
+        "s295d5feb80"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s848e7dba71",
+      "color": [
+        191,
+        230,
+        244
+      ],
+      "area": 6.25,
+      "bbox": [
+        693.0,
+        49.5,
+        698.0,
+        52.0
+      ],
+      "centroid": [
+        695.5,
+        50.33
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s25d1602038",
+        "s6607ede29b",
+        "s96aca7d0fc"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "seedf9f5ff2",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 6.0,
+      "bbox": [
+        863.0,
+        125.0,
+        865.0,
+        131.0
+      ],
+      "centroid": [
+        864.03,
+        127.83
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "s56de198fec",
+        "s6218b02950",
+        "s95d4bd0f43"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s96aca7d0fc",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 5.5,
+      "bbox": [
+        701.0,
+        125.0,
+        706.0,
+        129.0
+      ],
+      "centroid": [
+        703.53,
+        127.18
+      ],
+      "parent": "s881e837b00",
+      "children": [],
+      "neighbours": [
+        "s881e837b00",
+        "s5c858a9cce",
+        "s1d78c36300"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s6b1aa9d6cd",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 5.0,
+      "bbox": [
+        774.0,
+        41.0,
+        779.0,
+        43.0
+      ],
+      "centroid": [
+        776.12,
+        41.95
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "s3d6a8fafaf",
+        "s6607ede29b",
+        "s848e7dba71"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s6607ede29b",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 5.0,
+      "bbox": [
+        747.0,
+        42.0,
+        752.0,
+        44.0
+      ],
+      "centroid": [
+        749.83,
+        43.07
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s6b1aa9d6cd",
+        "s3d6a8fafaf",
+        "s848e7dba71"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s3d6a8fafaf",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 4.5,
+      "bbox": [
+        786.0,
+        54.0,
+        793.0,
+        55.5
+      ],
+      "centroid": [
+        790.17,
+        54.67
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s6b1aa9d6cd",
+        "s6607ede29b",
+        "s6218b02950"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s07a7fa2294",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 4.5,
+      "bbox": [
+        791.0,
+        367.0,
+        796.0,
+        372.0
+      ],
+      "centroid": [
+        793.5,
+        369.5
+      ],
+      "parent": "s295d5feb80",
+      "children": [],
+      "neighbours": [
+        "s1de66d3851",
+        "s295d5feb80",
+        "s4fcc7c0df9"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s4fcc7c0df9",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 4.5,
+      "bbox": [
+        855.0,
+        379.0,
+        860.0,
+        384.0
+      ],
+      "centroid": [
+        857.5,
+        381.5
+      ],
+      "parent": "s4956ae637a",
+      "children": [],
+      "neighbours": [
+        "s07a7fa2294",
+        "s1de66d3851",
+        "sdef112b027"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s6218b02950",
+      "color": [
+        191,
+        230,
+        244
+      ],
+      "area": 4.5,
+      "bbox": [
+        836.0,
+        69.0,
+        839.5,
+        73.0
+      ],
+      "centroid": [
+        837.94,
+        70.7
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s3d6a8fafaf",
+        "s56de198fec",
+        "seedf9f5ff2"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "sb162d973b9",
+      "color": [
+        191,
+        230,
+        244
+      ],
+      "area": 4.5,
+      "bbox": [
+        898.5,
+        474.0,
+        902.0,
+        479.0
+      ],
+      "centroid": [
+        900.11,
+        476.2
+      ],
+      "parent": "s1de66d3851",
+      "children": [],
+      "neighbours": [
+        "se124607d80",
+        "s4fcc7c0df9",
+        "s4956ae637a"
+      ],
+      "kind": "region"
+    },
+    {
+      "id": "s25d1602038",
+      "color": [
+        150,
+        150,
+        150
+      ],
+      "area": 4.25,
+      "bbox": [
+        699.0,
+        64.0,
+        704.0,
+        69.0
+      ],
+      "centroid": [
+        701.8,
+        66.7
+      ],
+      "parent": "s3af4ddbbda",
+      "children": [],
+      "neighbours": [
+        "s848e7dba71",
+        "s96aca7d0fc",
+        "s881e837b00"
+      ],
+      "kind": "region"
+    }
+  ],
+  "seconds": 0.2720581963658333,
+  "raster_embedded": false,
+  "quality": "unreviewed",
+  "bytes": 5515,
+  "palette_gaps": {
+    "threshold": 60.0,
+    "min_area_px2": 150.0,
+    "count": 0,
+    "regions": [],
+    "suggested": []
+  }
+}

@@ -1,0 +1,238 @@
+{
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt_common_prefix": "Minimalist hand-drawn cartoon doodle, clean black ink outlines, flat colours. The reference image shows two neighbouring drawings side by side (left = earlier, right = later); draw ONE new single drawing that is exactly halfway between them, copying their exact line style, proportions, size and placement. ",
+ "prompt_common_suffix": " A single full frame, not a comparison, not two panels. no text, no writing, no numbers, no paper edges, no borders",
+ "reference_note": "Only the first attempts of 12_16 and 32_33 used the original JPEG ref_txt verbatim. Copying the JPEG base64 by hand repeatedly failed (long runs of 'A' miscounted -> 'Invalid base64 image'), so all other calls used a WebP re-encode of the same composite extra/refs/r{a}_{b}.jpg: extra/refs/r{a}_{b}.webp.txt (q60/q40) or, for 67_68 retry, 68_69, 69_70, 72_73, 85_88, a 480x157 downscale extra/refs/r{a}_{b}.small.txt.",
+ "entries": [
+  {
+   "a": 12,
+   "b": 16,
+   "file": "extra/m12_16.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "Plain white background, no colour. Only the head of the cartoon man (oval face, neat dense scribbled dark hair cap, dot eyes, u-nose, small smile, rounded ears, hint of neck), turning halfway from three-quarter-right to front view, ~1/4 frame height, centre ~40% across and 1/3 down.",
+   "note": "Attempt 1 (rejected_12_16_1) had spiky hair and too-small head; retry matches style, position halfway; head still slightly small."
+  },
+  {
+   "a": 28,
+   "b": 31,
+   "file": "extra/m28_31.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "White background, B&W line art. Full-body man front view, centred, same scale; knees very slightly bent, feet apart, arms slightly away from body, eyebrows starting to look determined, small smile.",
+   "note": "First call failed with provider error (not charged)."
+  },
+  {
+   "a": 31,
+   "b": 32,
+   "file": "extra/m31_32.jpg",
+   "attempts": 3,
+   "accepted": true,
+   "prompt": "White background, B&W. Full-body man, knees half bent, torso leaning forward, head lowered, arms hanging out and starting to swing back, determined frown.",
+   "note": "Two calls rejected as Invalid base64 (JPEG ref copy errors); third used a WebP re-encode of the same composite. Figure ~10% smaller than neighbours."
+  },
+  {
+   "a": 32,
+   "b": 33,
+   "file": "extra/m32_33.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "White background, B&W. Man in squat slightly deeper than left, torso forward, both arms swung back halfway to straight back, determined frown.",
+   "note": "Attempt 1 (rejected_32_33_1) had a different, thicker style; retry matches."
+  },
+  {
+   "a": 33,
+   "b": 34,
+   "file": "extra/m33_34.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "White background, B&W. Man springing up from crouch: legs almost straight, toes leaving ground, arms swinging forward/up, face turning happy.",
+   "note": "Figure slightly smaller than neighbours; already airborne."
+  },
+  {
+   "a": 36,
+   "b": 37,
+   "file": "extra/m36_37.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "White background, B&W. Man in mid-air jump, arms straight up, knees halfway lifted toward chest, speed lines below.",
+   "note": ""
+  },
+  {
+   "a": 37,
+   "b": 39,
+   "file": "extra/m37_39.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "White background with thin light-blue gradient just starting at bottom edge. B&W man at top of jump, arms diagonal up/out, legs unfolding from tuck into star.",
+   "note": ""
+  },
+  {
+   "a": 39,
+   "b": 40,
+   "file": "extra/m39_40.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "Sky gradient white top to blue lower half, two small clouds appearing. B&W man in spread-eagle star, tilting slightly right.",
+   "note": "First call failed with provider error (not charged)."
+  },
+  {
+   "a": 40,
+   "b": 41,
+   "file": "extra/m40_41.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Sky: white haze top quarter fading to blue, clouds lower-left and right. B&W man falling spread-eagle tilted right, shirt hem fluttering.",
+   "note": ""
+  },
+  {
+   "a": 43,
+   "b": 45,
+   "file": "extra/m43_45.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Full blue sky, small clouds with speed streaks. B&W man spread-eagle tilted right.",
+   "note": ""
+  },
+  {
+   "a": 45,
+   "b": 46,
+   "file": "extra/m45_46.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Full blue sky with clouds. Colour flooding in: pale light-peach skin and light-brown hair, shirt/trousers/shoes still white.",
+   "note": "Mid-flood colour."
+  },
+  {
+   "a": 55,
+   "b": 58,
+   "file": "extra/m55_58.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Blue sky, many clouds, moderate thin speed streaks. Fully coloured man (peach skin, brown hair, red T-shirt, blue jeans, white sneakers) spread-eagle.",
+   "note": ""
+  },
+  {
+   "a": 58,
+   "b": 59,
+   "file": "extra/m58_59.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Blue sky, fewer clouds and faint streaks, top of big cloud rising at bottom edge. Coloured man spread-eagle tilted right.",
+   "note": ""
+  },
+  {
+   "a": 59,
+   "b": 60,
+   "file": "extra/m59_60.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Blue sky, big cloud top at bottom. Coloured man rotating upright feet-first, arms out wide and slightly up, legs together pointing down.",
+   "note": "Pose closer to the later drawing; big cloud slightly larger than neighbours."
+  },
+  {
+   "a": 60,
+   "b": 61,
+   "file": "extra/m60_61.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Blue sky, big cloud at bottom. Coloured man about to land: knees half bent and lifting, arms diagonal up/out.",
+   "note": ""
+  },
+  {
+   "a": 61,
+   "b": 62,
+   "file": "extra/m61_62.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Blue sky with small clouds. Man's bottom sinking into big cloud which squashes wider, legs forward, arms up wide, small puffs at cloud ends.",
+   "note": ""
+  },
+  {
+   "a": 62,
+   "b": 63,
+   "file": "extra/m62_63.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Man sits sunk into flattened cloud, legs forward, arms out at shoulder height, medium puffs bursting from cloud ends.",
+   "note": ""
+  },
+  {
+   "a": 63,
+   "b": 64,
+   "file": "extra/m63_64.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Cloud springing back up with side puffs; man bouncing up off it, knees pulled up, arms raised.",
+   "note": ""
+  },
+  {
+   "a": 64,
+   "b": 65,
+   "file": "extra/m64_65.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Man dropping back onto wide cloud, bottom touching top, legs forward, arms lowering to chest height.",
+   "note": ""
+  },
+  {
+   "a": 65,
+   "b": 67,
+   "file": "extra/m65_67.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Cloud just beginning to tip (left end slightly raised); man leaning back, one arm lifting, surprised round mouth.",
+   "note": ""
+  },
+  {
+   "a": 67,
+   "b": 68,
+   "file": "extra/m67_68.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "Cloud tipping at moderate diagonal like a slide; large man (~40% frame height) sliding toward lower-right end, arms up, shocked face, speed lines.",
+   "note": "Attempt 1 (rejected_67_68_1) drew the man too small; retry fixed scale."
+  },
+  {
+   "a": 68,
+   "b": 69,
+   "file": "extra/m68_69.jpg",
+   "attempts": 4,
+   "accepted": true,
+   "prompt": "Thin grass strip appears at bottom; long cloud on steep diagonal starting to swing back with motion arrow; man sliding off lower-right tip, legs kicking, arms up, scared.",
+   "note": "Three calls rejected as Invalid base64 (transcription errors in the WebP data URL); fourth used a downscaled WebP of the same composite."
+  },
+  {
+   "a": 69,
+   "b": 70,
+   "file": "extra/m69_70.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "Grass band at bottom; cloud swinging up into upper left with motion arrow; large man falling below, body turning upright, knees up, arms raised, relieved face.",
+   "note": "Attempt 1 (rejected_69_70_1) drew the man too small; retry fixed scale."
+  },
+  {
+   "a": 72,
+   "b": 73,
+   "file": "extra/m72_73.jpg",
+   "attempts": 2,
+   "accepted": true,
+   "prompt": "Blue sky, clouds; grass field about a quarter of frame height; no animals. Man just landing in sitting position, legs forward, arms coming down to shoulder height, happy.",
+   "note": "Attempt 1 (rejected_72_73_1) misread the pair and drew the sitting man with a duck; retry correct. Uses downscaled WebP ref."
+  },
+  {
+   "a": 85,
+   "b": 88,
+   "file": "extra/m85_88.jpg",
+   "attempts": 1,
+   "accepted": true,
+   "prompt": "Blue sky, clouds, wide grass field. Man sitting centred, head turned to his right, happy; small white duck (orange beak/feet) waddling right at ~85% across, mid-step.",
+   "note": ""
+  }
+ ],
+ "total_generate_calls": 37,
+ "charged_images": 30,
+ "uncharged_failed_calls": 7
+}

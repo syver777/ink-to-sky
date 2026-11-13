@@ -1,0 +1,1776 @@
+{
+  "keys": [
+    {
+      "id": 1,
+      "frame": 0,
+      "time": 0.0,
+      "name": "k1",
+      "kind": "cel"
+    },
+    {
+      "id": 3,
+      "frame": 7,
+      "time": 0.35,
+      "name": "k3",
+      "kind": "cel"
+    },
+    {
+      "id": 4,
+      "frame": 10,
+      "time": 0.5,
+      "name": "k4",
+      "kind": "cel"
+    },
+    {
+      "id": 5,
+      "frame": 13,
+      "time": 0.65,
+      "name": "k5",
+      "kind": "cel"
+    },
+    {
+      "id": 6,
+      "frame": 17,
+      "time": 0.85,
+      "name": "k6",
+      "kind": "cel"
+    },
+    {
+      "id": 7,
+      "frame": 20,
+      "time": 1.0,
+      "name": "k7",
+      "kind": "cel"
+    },
+    {
+      "id": 9,
+      "frame": 27,
+      "time": 1.35,
+      "name": "k9",
+      "kind": "cel"
+    },
+    {
+      "id": 10,
+      "frame": 30,
+      "time": 1.5,
+      "name": "k10",
+      "kind": "cel"
+    },
+    {
+      "id": 11,
+      "frame": 33,
+      "time": 1.65,
+      "name": "k11",
+      "kind": "cel"
+    },
+    {
+      "id": 12,
+      "frame": 37,
+      "time": 1.85,
+      "name": "k12",
+      "kind": "cel"
+    },
+    {
+      "id": 16,
+      "frame": 50,
+      "time": 2.5,
+      "name": "k16",
+      "kind": "cel"
+    },
+    {
+      "id": 17,
+      "frame": 53,
+      "time": 2.65,
+      "name": "k17",
+      "kind": "cel"
+    },
+    {
+      "id": 18,
+      "frame": 57,
+      "time": 2.85,
+      "name": "k18",
+      "kind": "cel"
+    },
+    {
+      "id": 20,
+      "frame": 63,
+      "time": 3.15,
+      "name": "k20",
+      "kind": "cel"
+    },
+    {
+      "id": 22,
+      "frame": 70,
+      "time": 3.5,
+      "name": "k22",
+      "kind": "cel"
+    },
+    {
+      "id": 23,
+      "frame": 73,
+      "time": 3.65,
+      "name": "k23",
+      "kind": "cel"
+    },
+    {
+      "id": 24,
+      "frame": 77,
+      "time": 3.85,
+      "name": "k24",
+      "kind": "cel"
+    },
+    {
+      "id": 26,
+      "frame": 83,
+      "time": 4.15,
+      "name": "k26",
+      "kind": "cel"
+    },
+    {
+      "id": 27,
+      "frame": 87,
+      "time": 4.35,
+      "name": "k27",
+      "kind": "cel"
+    },
+    {
+      "id": 28,
+      "frame": 90,
+      "time": 4.5,
+      "name": "k28",
+      "kind": "cel"
+    },
+    {
+      "id": 102,
+      "frame": 95,
+      "time": 4.75,
+      "name": "k102",
+      "kind": "extra"
+    },
+    {
+      "id": 31,
+      "frame": 100,
+      "time": 5.0,
+      "name": "k31",
+      "kind": "cel"
+    },
+    {
+      "id": 32,
+      "frame": 103,
+      "time": 5.15,
+      "name": "k32",
+      "kind": "cel"
+    },
+    {
+      "id": 104,
+      "frame": 105,
+      "time": 5.25,
+      "name": "k104",
+      "kind": "extra"
+    },
+    {
+      "id": 33,
+      "frame": 107,
+      "time": 5.35,
+      "name": "k33",
+      "kind": "cel"
+    },
+    {
+      "id": 105,
+      "frame": 108,
+      "time": 5.4,
+      "name": "k105",
+      "kind": "extra"
+    },
+    {
+      "id": 34,
+      "frame": 110,
+      "time": 5.5,
+      "name": "k34",
+      "kind": "cel"
+    },
+    {
+      "id": 35,
+      "frame": 113,
+      "time": 5.65,
+      "name": "k35",
+      "kind": "cel"
+    },
+    {
+      "id": 36,
+      "frame": 117,
+      "time": 5.85,
+      "name": "k36",
+      "kind": "cel"
+    },
+    {
+      "id": 106,
+      "frame": 118,
+      "time": 5.9,
+      "name": "k106",
+      "kind": "extra"
+    },
+    {
+      "id": 37,
+      "frame": 120,
+      "time": 6.0,
+      "name": "k37",
+      "kind": "cel"
+    },
+    {
+      "id": 107,
+      "frame": 123,
+      "time": 6.15,
+      "name": "k107",
+      "kind": "extra"
+    },
+    {
+      "id": 39,
+      "frame": 127,
+      "time": 6.35,
+      "name": "k39",
+      "kind": "cel"
+    },
+    {
+      "id": 108,
+      "frame": 128,
+      "time": 6.4,
+      "name": "k108",
+      "kind": "extra"
+    },
+    {
+      "id": 40,
+      "frame": 130,
+      "time": 6.5,
+      "name": "k40",
+      "kind": "cel"
+    },
+    {
+      "id": 109,
+      "frame": 132,
+      "time": 6.6,
+      "name": "k109",
+      "kind": "extra"
+    },
+    {
+      "id": 41,
+      "frame": 133,
+      "time": 6.65,
+      "name": "k41",
+      "kind": "cel"
+    },
+    {
+      "id": 42,
+      "frame": 137,
+      "time": 6.85,
+      "name": "k42",
+      "kind": "cel"
+    },
+    {
+      "id": 43,
+      "frame": 140,
+      "time": 7.0,
+      "name": "k43",
+      "kind": "cel"
+    },
+    {
+      "id": 110,
+      "frame": 143,
+      "time": 7.15,
+      "name": "k110",
+      "kind": "extra"
+    },
+    {
+      "id": 45,
+      "frame": 147,
+      "time": 7.35,
+      "name": "k45",
+      "kind": "cel"
+    },
+    {
+      "id": 111,
+      "frame": 148,
+      "time": 7.4,
+      "name": "k111",
+      "kind": "extra"
+    },
+    {
+      "id": 46,
+      "frame": 150,
+      "time": 7.5,
+      "name": "k46",
+      "kind": "cel"
+    },
+    {
+      "id": 47,
+      "frame": 153,
+      "time": 7.65,
+      "name": "k47",
+      "kind": "cel"
+    },
+    {
+      "id": 49,
+      "frame": 160,
+      "time": 8.0,
+      "name": "k49",
+      "kind": "cel"
+    },
+    {
+      "id": 51,
+      "frame": 167,
+      "time": 8.35,
+      "name": "k51",
+      "kind": "cel"
+    },
+    {
+      "id": 53,
+      "frame": 173,
+      "time": 8.65,
+      "name": "k53",
+      "kind": "cel"
+    },
+    {
+      "id": 55,
+      "frame": 180,
+      "time": 9.0,
+      "name": "k55",
+      "kind": "cel"
+    },
+    {
+      "id": 112,
+      "frame": 185,
+      "time": 9.25,
+      "name": "k112",
+      "kind": "extra"
+    },
+    {
+      "id": 58,
+      "frame": 190,
+      "time": 9.5,
+      "name": "k58",
+      "kind": "cel"
+    },
+    {
+      "id": 113,
+      "frame": 192,
+      "time": 9.6,
+      "name": "k113",
+      "kind": "extra"
+    },
+    {
+      "id": 59,
+      "frame": 193,
+      "time": 9.65,
+      "name": "k59",
+      "kind": "cel"
+    },
+    {
+      "id": 60,
+      "frame": 197,
+      "time": 9.85,
+      "name": "k60",
+      "kind": "cel"
+    },
+    {
+      "id": 115,
+      "frame": 198,
+      "time": 9.9,
+      "name": "k115",
+      "kind": "extra"
+    },
+    {
+      "id": 61,
+      "frame": 200,
+      "time": 10.0,
+      "name": "k61",
+      "kind": "cel"
+    },
+    {
+      "id": 116,
+      "frame": 202,
+      "time": 10.1,
+      "name": "k116",
+      "kind": "extra"
+    },
+    {
+      "id": 62,
+      "frame": 203,
+      "time": 10.15,
+      "name": "k62",
+      "kind": "cel"
+    },
+    {
+      "id": 117,
+      "frame": 205,
+      "time": 10.25,
+      "name": "k117",
+      "kind": "extra"
+    },
+    {
+      "id": 63,
+      "frame": 207,
+      "time": 10.35,
+      "name": "k63",
+      "kind": "cel"
+    },
+    {
+      "id": 118,
+      "frame": 208,
+      "time": 10.4,
+      "name": "k118",
+      "kind": "extra"
+    },
+    {
+      "id": 64,
+      "frame": 210,
+      "time": 10.5,
+      "name": "k64",
+      "kind": "cel"
+    },
+    {
+      "id": 119,
+      "frame": 212,
+      "time": 10.6,
+      "name": "k119",
+      "kind": "extra"
+    },
+    {
+      "id": 65,
+      "frame": 213,
+      "time": 10.65,
+      "name": "k65",
+      "kind": "cel"
+    },
+    {
+      "id": 120,
+      "frame": 217,
+      "time": 10.85,
+      "name": "k120",
+      "kind": "extra"
+    },
+    {
+      "id": 67,
+      "frame": 220,
+      "time": 11.0,
+      "name": "k67",
+      "kind": "cel"
+    },
+    {
+      "id": 121,
+      "frame": 222,
+      "time": 11.1,
+      "name": "k121",
+      "kind": "extra"
+    },
+    {
+      "id": 68,
+      "frame": 223,
+      "time": 11.15,
+      "name": "k68",
+      "kind": "cel"
+    },
+    {
+      "id": 122,
+      "frame": 225,
+      "time": 11.25,
+      "name": "k122",
+      "kind": "extra"
+    },
+    {
+      "id": 69,
+      "frame": 227,
+      "time": 11.35,
+      "name": "k69",
+      "kind": "cel"
+    },
+    {
+      "id": 123,
+      "frame": 228,
+      "time": 11.4,
+      "name": "k123",
+      "kind": "extra"
+    },
+    {
+      "id": 70,
+      "frame": 230,
+      "time": 11.5,
+      "name": "k70",
+      "kind": "cel"
+    },
+    {
+      "id": 72,
+      "frame": 237,
+      "time": 11.85,
+      "name": "k72",
+      "kind": "cel"
+    },
+    {
+      "id": 124,
+      "frame": 238,
+      "time": 11.9,
+      "name": "k124",
+      "kind": "extra"
+    },
+    {
+      "id": 73,
+      "frame": 240,
+      "time": 12.0,
+      "name": "k73",
+      "kind": "cel"
+    },
+    {
+      "id": 74,
+      "frame": 243,
+      "time": 12.15,
+      "name": "k74",
+      "kind": "cel"
+    },
+    {
+      "id": 75,
+      "frame": 247,
+      "time": 12.35,
+      "name": "k75",
+      "kind": "cel"
+    },
+    {
+      "id": 77,
+      "frame": 253,
+      "time": 12.65,
+      "name": "k77",
+      "kind": "cel"
+    },
+    {
+      "id": 79,
+      "frame": 260,
+      "time": 13.0,
+      "name": "k79",
+      "kind": "cel"
+    },
+    {
+      "id": 81,
+      "frame": 267,
+      "time": 13.35,
+      "name": "k81",
+      "kind": "cel"
+    },
+    {
+      "id": 83,
+      "frame": 273,
+      "time": 13.65,
+      "name": "k83",
+      "kind": "cel"
+    },
+    {
+      "id": 85,
+      "frame": 280,
+      "time": 14.0,
+      "name": "k85",
+      "kind": "cel"
+    },
+    {
+      "id": 88,
+      "frame": 290,
+      "time": 14.5,
+      "name": "k88",
+      "kind": "cel"
+    }
+  ],
+  "transitions": [
+    {
+      "from": 1,
+      "to": 3,
+      "key_frames": [
+        0,
+        7
+      ],
+      "window": [
+        1,
+        6
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "key_frames": [
+        7,
+        10
+      ],
+      "window": [
+        8,
+        9
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "key_frames": [
+        10,
+        13
+      ],
+      "window": [
+        11,
+        12
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "key_frames": [
+        13,
+        17
+      ],
+      "window": [
+        14,
+        16
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "key_frames": [
+        17,
+        20
+      ],
+      "window": [
+        18,
+        19
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 7,
+      "to": 9,
+      "key_frames": [
+        20,
+        27
+      ],
+      "window": [
+        21,
+        26
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "key_frames": [
+        27,
+        30
+      ],
+      "window": [
+        28,
+        29
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "key_frames": [
+        30,
+        33
+      ],
+      "window": [
+        31,
+        32
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "key_frames": [
+        33,
+        37
+      ],
+      "window": [
+        34,
+        36
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 12,
+      "to": 16,
+      "key_frames": [
+        37,
+        50
+      ],
+      "window": [
+        38,
+        49
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "key_frames": [
+        50,
+        53
+      ],
+      "window": [
+        51,
+        52
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "key_frames": [
+        53,
+        57
+      ],
+      "window": [
+        54,
+        56
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 18,
+      "to": 20,
+      "key_frames": [
+        57,
+        63
+      ],
+      "window": [
+        58,
+        62
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 20,
+      "to": 22,
+      "key_frames": [
+        63,
+        70
+      ],
+      "window": [
+        64,
+        69
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "key_frames": [
+        70,
+        73
+      ],
+      "window": [
+        71,
+        72
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "key_frames": [
+        73,
+        77
+      ],
+      "window": [
+        74,
+        76
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 24,
+      "to": 26,
+      "key_frames": [
+        77,
+        83
+      ],
+      "window": [
+        78,
+        82
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "key_frames": [
+        83,
+        87
+      ],
+      "window": [
+        84,
+        86
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "key_frames": [
+        87,
+        90
+      ],
+      "window": [
+        88,
+        89
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 28,
+      "to": 102,
+      "key_frames": [
+        90,
+        95
+      ],
+      "window": [
+        91,
+        94
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 102,
+      "to": 31,
+      "key_frames": [
+        95,
+        100
+      ],
+      "window": [
+        96,
+        99
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "key_frames": [
+        100,
+        103
+      ],
+      "window": [
+        101,
+        102
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 32,
+      "to": 104,
+      "key_frames": [
+        103,
+        105
+      ],
+      "window": [
+        104,
+        104
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 104,
+      "to": 33,
+      "key_frames": [
+        105,
+        107
+      ],
+      "window": [
+        106,
+        106
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 33,
+      "to": 105,
+      "key_frames": [
+        107,
+        108
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 105,
+      "to": 34,
+      "key_frames": [
+        108,
+        110
+      ],
+      "window": [
+        109,
+        109
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "key_frames": [
+        110,
+        113
+      ],
+      "window": [
+        111,
+        112
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "key_frames": [
+        113,
+        117
+      ],
+      "window": [
+        114,
+        116
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 36,
+      "to": 106,
+      "key_frames": [
+        117,
+        118
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 106,
+      "to": 37,
+      "key_frames": [
+        118,
+        120
+      ],
+      "window": [
+        119,
+        119
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 37,
+      "to": 107,
+      "key_frames": [
+        120,
+        123
+      ],
+      "window": [
+        121,
+        122
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 107,
+      "to": 39,
+      "key_frames": [
+        123,
+        127
+      ],
+      "window": [
+        124,
+        126
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 39,
+      "to": 108,
+      "key_frames": [
+        127,
+        128
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 108,
+      "to": 40,
+      "key_frames": [
+        128,
+        130
+      ],
+      "window": [
+        129,
+        129
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 40,
+      "to": 109,
+      "key_frames": [
+        130,
+        132
+      ],
+      "window": [
+        131,
+        131
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 109,
+      "to": 41,
+      "key_frames": [
+        132,
+        133
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 41,
+      "to": 42,
+      "key_frames": [
+        133,
+        137
+      ],
+      "window": [
+        134,
+        136
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 42,
+      "to": 43,
+      "key_frames": [
+        137,
+        140
+      ],
+      "window": [
+        138,
+        139
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 43,
+      "to": 110,
+      "key_frames": [
+        140,
+        143
+      ],
+      "window": [
+        141,
+        142
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 110,
+      "to": 45,
+      "key_frames": [
+        143,
+        147
+      ],
+      "window": [
+        144,
+        146
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 45,
+      "to": 111,
+      "key_frames": [
+        147,
+        148
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 111,
+      "to": 46,
+      "key_frames": [
+        148,
+        150
+      ],
+      "window": [
+        149,
+        149
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 46,
+      "to": 47,
+      "key_frames": [
+        150,
+        153
+      ],
+      "window": [
+        151,
+        152
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 47,
+      "to": 49,
+      "key_frames": [
+        153,
+        160
+      ],
+      "window": [
+        154,
+        159
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 49,
+      "to": 51,
+      "key_frames": [
+        160,
+        167
+      ],
+      "window": [
+        161,
+        166
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 51,
+      "to": 53,
+      "key_frames": [
+        167,
+        173
+      ],
+      "window": [
+        168,
+        172
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 53,
+      "to": 55,
+      "key_frames": [
+        173,
+        180
+      ],
+      "window": [
+        174,
+        179
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 55,
+      "to": 112,
+      "key_frames": [
+        180,
+        185
+      ],
+      "window": [
+        181,
+        184
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 112,
+      "to": 58,
+      "key_frames": [
+        185,
+        190
+      ],
+      "window": [
+        186,
+        189
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 58,
+      "to": 113,
+      "key_frames": [
+        190,
+        192
+      ],
+      "window": [
+        191,
+        191
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 113,
+      "to": 59,
+      "key_frames": [
+        192,
+        193
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 59,
+      "to": 60,
+      "key_frames": [
+        193,
+        197
+      ],
+      "window": [
+        194,
+        196
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 60,
+      "to": 115,
+      "key_frames": [
+        197,
+        198
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 115,
+      "to": 61,
+      "key_frames": [
+        198,
+        200
+      ],
+      "window": [
+        199,
+        199
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 61,
+      "to": 116,
+      "key_frames": [
+        200,
+        202
+      ],
+      "window": [
+        201,
+        201
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 116,
+      "to": 62,
+      "key_frames": [
+        202,
+        203
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 62,
+      "to": 117,
+      "key_frames": [
+        203,
+        205
+      ],
+      "window": [
+        204,
+        204
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 117,
+      "to": 63,
+      "key_frames": [
+        205,
+        207
+      ],
+      "window": [
+        206,
+        206
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 63,
+      "to": 118,
+      "key_frames": [
+        207,
+        208
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 118,
+      "to": 64,
+      "key_frames": [
+        208,
+        210
+      ],
+      "window": [
+        209,
+        209
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 64,
+      "to": 119,
+      "key_frames": [
+        210,
+        212
+      ],
+      "window": [
+        211,
+        211
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 119,
+      "to": 65,
+      "key_frames": [
+        212,
+        213
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 65,
+      "to": 120,
+      "key_frames": [
+        213,
+        217
+      ],
+      "window": [
+        214,
+        216
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 120,
+      "to": 67,
+      "key_frames": [
+        217,
+        220
+      ],
+      "window": [
+        218,
+        219
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 67,
+      "to": 121,
+      "key_frames": [
+        220,
+        222
+      ],
+      "window": [
+        221,
+        221
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 121,
+      "to": 68,
+      "key_frames": [
+        222,
+        223
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 68,
+      "to": 122,
+      "key_frames": [
+        223,
+        225
+      ],
+      "window": [
+        224,
+        224
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 122,
+      "to": 69,
+      "key_frames": [
+        225,
+        227
+      ],
+      "window": [
+        226,
+        226
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 69,
+      "to": 123,
+      "key_frames": [
+        227,
+        228
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 123,
+      "to": 70,
+      "key_frames": [
+        228,
+        230
+      ],
+      "window": [
+        229,
+        229
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 70,
+      "to": 72,
+      "key_frames": [
+        230,
+        237
+      ],
+      "window": [
+        231,
+        236
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 72,
+      "to": 124,
+      "key_frames": [
+        237,
+        238
+      ],
+      "window": null,
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 124,
+      "to": 73,
+      "key_frames": [
+        238,
+        240
+      ],
+      "window": [
+        239,
+        239
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 73,
+      "to": 74,
+      "key_frames": [
+        240,
+        243
+      ],
+      "window": [
+        241,
+        242
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 74,
+      "to": 75,
+      "key_frames": [
+        243,
+        247
+      ],
+      "window": [
+        244,
+        246
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 75,
+      "to": 77,
+      "key_frames": [
+        247,
+        253
+      ],
+      "window": [
+        248,
+        252
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 77,
+      "to": 79,
+      "key_frames": [
+        253,
+        260
+      ],
+      "window": [
+        254,
+        259
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 79,
+      "to": 81,
+      "key_frames": [
+        260,
+        267
+      ],
+      "window": [
+        261,
+        266
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 81,
+      "to": 83,
+      "key_frames": [
+        267,
+        273
+      ],
+      "window": [
+        268,
+        272
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 83,
+      "to": 85,
+      "key_frames": [
+        273,
+        280
+      ],
+      "window": [
+        274,
+        279
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 85,
+      "to": 88,
+      "key_frames": [
+        280,
+        290
+      ],
+      "window": [
+        281,
+        289
+      ],
+      "mode": "authored",
+      "requested": "authored",
+      "reason": "v6 explicit vector edits"
+    },
+    {
+      "from": 88,
+      "to": 88,
+      "key_frames": [
+        290,
+        299
+      ],
+      "window": [
+        291,
+        299
+      ],
+      "mode": "authored",
+      "reason": "authored duck exit and settling"
+    }
+  ],
+  "modes": {
+    "authored": 82
+  },
+  "film_ncel": "film.ncel",
+  "audio_from": "../../out_final/ink_to_sky.mp4",
+  "provenance": "v6: v5 vector edition with the accepted extra keys only (21), symbolic f inside authored ranges, NCIR/Vello-checked tools."
+}

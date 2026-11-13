@@ -1,0 +1,1386 @@
+{
+  "key_slots": [
+    {
+      "frame": 0,
+      "key_id": 1,
+      "source": 0,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 7,
+      "key_id": 3,
+      "source": 1,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 10,
+      "key_id": 4,
+      "source": 2,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 13,
+      "key_id": 5,
+      "source": 3,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 17,
+      "key_id": 6,
+      "source": 4,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 20,
+      "key_id": 7,
+      "source": 5,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 27,
+      "key_id": 9,
+      "source": 6,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 30,
+      "key_id": 10,
+      "source": 7,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 33,
+      "key_id": 11,
+      "source": 8,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 37,
+      "key_id": 12,
+      "source": 9,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 50,
+      "key_id": 16,
+      "source": 11,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 53,
+      "key_id": 17,
+      "source": 12,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 57,
+      "key_id": 18,
+      "source": 13,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 63,
+      "key_id": 20,
+      "source": 14,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 70,
+      "key_id": 22,
+      "source": 15,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 73,
+      "key_id": 23,
+      "source": 16,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 77,
+      "key_id": 24,
+      "source": 17,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 83,
+      "key_id": 26,
+      "source": 18,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 87,
+      "key_id": 27,
+      "source": 19,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 90,
+      "key_id": 28,
+      "source": 20,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 95,
+      "key_id": 102,
+      "source": 21,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 100,
+      "key_id": 31,
+      "source": 22,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 103,
+      "key_id": 32,
+      "source": 24,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 105,
+      "key_id": 104,
+      "source": 25,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 107,
+      "key_id": 33,
+      "source": 26,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 108,
+      "key_id": 105,
+      "source": 27,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 110,
+      "key_id": 34,
+      "source": 28,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 113,
+      "key_id": 35,
+      "source": 29,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 117,
+      "key_id": 36,
+      "source": 30,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 118,
+      "key_id": 106,
+      "source": 31,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 120,
+      "key_id": 37,
+      "source": 32,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 123,
+      "key_id": 107,
+      "source": 33,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 127,
+      "key_id": 39,
+      "source": 34,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 128,
+      "key_id": 108,
+      "source": 35,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 130,
+      "key_id": 40,
+      "source": 36,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 132,
+      "key_id": 109,
+      "source": 37,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 133,
+      "key_id": 41,
+      "source": 38,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 137,
+      "key_id": 42,
+      "source": 39,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 140,
+      "key_id": 43,
+      "source": 40,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 143,
+      "key_id": 110,
+      "source": 41,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 147,
+      "key_id": 45,
+      "source": 42,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 148,
+      "key_id": 111,
+      "source": 43,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 150,
+      "key_id": 46,
+      "source": 44,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 153,
+      "key_id": 47,
+      "source": 45,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 160,
+      "key_id": 49,
+      "source": 46,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 167,
+      "key_id": 51,
+      "source": 47,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 173,
+      "key_id": 53,
+      "source": 48,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 180,
+      "key_id": 55,
+      "source": 49,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 185,
+      "key_id": 112,
+      "source": 50,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 190,
+      "key_id": 58,
+      "source": 51,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 192,
+      "key_id": 113,
+      "source": 52,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 193,
+      "key_id": 59,
+      "source": 53,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 197,
+      "key_id": 60,
+      "source": 55,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 198,
+      "key_id": 115,
+      "source": 56,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 200,
+      "key_id": 61,
+      "source": 57,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 202,
+      "key_id": 116,
+      "source": 58,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 203,
+      "key_id": 62,
+      "source": 59,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 205,
+      "key_id": 117,
+      "source": 60,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 207,
+      "key_id": 63,
+      "source": 61,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 208,
+      "key_id": 118,
+      "source": 62,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 210,
+      "key_id": 64,
+      "source": 63,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 212,
+      "key_id": 119,
+      "source": 64,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 213,
+      "key_id": 65,
+      "source": 65,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 217,
+      "key_id": 120,
+      "source": 66,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 220,
+      "key_id": 67,
+      "source": 67,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 222,
+      "key_id": 121,
+      "source": 68,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 223,
+      "key_id": 68,
+      "source": 69,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 225,
+      "key_id": 122,
+      "source": 70,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 227,
+      "key_id": 69,
+      "source": 71,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 228,
+      "key_id": 123,
+      "source": 72,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 230,
+      "key_id": 70,
+      "source": 73,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 237,
+      "key_id": 72,
+      "source": 74,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 238,
+      "key_id": 124,
+      "source": 75,
+      "extra": true,
+      "used_extra": true
+    },
+    {
+      "frame": 240,
+      "key_id": 73,
+      "source": 76,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 243,
+      "key_id": 74,
+      "source": 77,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 247,
+      "key_id": 75,
+      "source": 78,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 253,
+      "key_id": 77,
+      "source": 79,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 260,
+      "key_id": 79,
+      "source": 80,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 267,
+      "key_id": 81,
+      "source": 81,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 273,
+      "key_id": 83,
+      "source": 82,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 280,
+      "key_id": 85,
+      "source": 83,
+      "extra": false,
+      "used_extra": false
+    },
+    {
+      "frame": 290,
+      "key_id": 88,
+      "source": 85,
+      "extra": false,
+      "used_extra": false
+    }
+  ],
+  "authored": [
+    {
+      "file": "a001_006.ncel",
+      "first": 1,
+      "last": 6,
+      "frames": 6,
+      "source": 0
+    },
+    {
+      "file": "a008_009.ncel",
+      "first": 8,
+      "last": 9,
+      "frames": 2,
+      "source": 1
+    },
+    {
+      "file": "a011_012.ncel",
+      "first": 11,
+      "last": 12,
+      "frames": 2,
+      "source": 2
+    },
+    {
+      "file": "a014_016.ncel",
+      "first": 14,
+      "last": 16,
+      "frames": 3,
+      "source": 3
+    },
+    {
+      "file": "a018_019.ncel",
+      "first": 18,
+      "last": 19,
+      "frames": 2,
+      "source": 4
+    },
+    {
+      "file": "a021_026.ncel",
+      "first": 21,
+      "last": 26,
+      "frames": 6,
+      "source": 5
+    },
+    {
+      "file": "a028_029.ncel",
+      "first": 28,
+      "last": 29,
+      "frames": 2,
+      "source": 6
+    },
+    {
+      "file": "a031_032.ncel",
+      "first": 31,
+      "last": 32,
+      "frames": 2,
+      "source": 7
+    },
+    {
+      "file": "a034_036.ncel",
+      "first": 34,
+      "last": 36,
+      "frames": 3,
+      "source": 8
+    },
+    {
+      "file": "a038_049.ncel",
+      "first": 38,
+      "last": 49,
+      "frames": 12,
+      "source": 9
+    },
+    {
+      "file": "a051_052.ncel",
+      "first": 51,
+      "last": 52,
+      "frames": 2,
+      "source": 11
+    },
+    {
+      "file": "a054_056.ncel",
+      "first": 54,
+      "last": 56,
+      "frames": 3,
+      "source": 12
+    },
+    {
+      "file": "a058_062.ncel",
+      "first": 58,
+      "last": 62,
+      "frames": 5,
+      "source": 13
+    },
+    {
+      "file": "a064_069.ncel",
+      "first": 64,
+      "last": 69,
+      "frames": 6,
+      "source": 14
+    },
+    {
+      "file": "a071_072.ncel",
+      "first": 71,
+      "last": 72,
+      "frames": 2,
+      "source": 15
+    },
+    {
+      "file": "a074_076.ncel",
+      "first": 74,
+      "last": 76,
+      "frames": 3,
+      "source": 16
+    },
+    {
+      "file": "a078_082.ncel",
+      "first": 78,
+      "last": 82,
+      "frames": 5,
+      "source": 17
+    },
+    {
+      "file": "a084_086.ncel",
+      "first": 84,
+      "last": 86,
+      "frames": 3,
+      "source": 18
+    },
+    {
+      "file": "a088_089.ncel",
+      "first": 88,
+      "last": 89,
+      "frames": 2,
+      "source": 19
+    },
+    {
+      "file": "a091_094.ncel",
+      "first": 91,
+      "last": 94,
+      "frames": 4,
+      "source": 20
+    },
+    {
+      "file": "a096_099.ncel",
+      "first": 96,
+      "last": 99,
+      "frames": 4,
+      "source": 21
+    },
+    {
+      "file": "a101_102.ncel",
+      "first": 101,
+      "last": 102,
+      "frames": 2,
+      "source": 22
+    },
+    {
+      "file": "a104_104.ncel",
+      "first": 104,
+      "last": 104,
+      "frames": 1,
+      "source": 24
+    },
+    {
+      "file": "a106_106.ncel",
+      "first": 106,
+      "last": 106,
+      "frames": 1,
+      "source": 25
+    },
+    {
+      "file": "a109_109.ncel",
+      "first": 109,
+      "last": 109,
+      "frames": 1,
+      "source": 27
+    },
+    {
+      "file": "a111_112.ncel",
+      "first": 111,
+      "last": 112,
+      "frames": 2,
+      "source": 28
+    },
+    {
+      "file": "a114_116.ncel",
+      "first": 114,
+      "last": 116,
+      "frames": 3,
+      "source": 29
+    },
+    {
+      "file": "a119_119.ncel",
+      "first": 119,
+      "last": 119,
+      "frames": 1,
+      "source": 31
+    },
+    {
+      "file": "a121_122.ncel",
+      "first": 121,
+      "last": 122,
+      "frames": 2,
+      "source": 32
+    },
+    {
+      "file": "a124_124.ncel",
+      "first": 124,
+      "last": 124,
+      "frames": 1,
+      "source": 33
+    },
+    {
+      "file": "a125_126.ncel",
+      "first": 125,
+      "last": 126,
+      "frames": 2,
+      "source": 33
+    },
+    {
+      "file": "a129_129.ncel",
+      "first": 129,
+      "last": 129,
+      "frames": 1,
+      "source": 35
+    },
+    {
+      "file": "a131_131.ncel",
+      "first": 131,
+      "last": 131,
+      "frames": 1,
+      "source": 36
+    },
+    {
+      "file": "a134_136.ncel",
+      "first": 134,
+      "last": 136,
+      "frames": 3,
+      "source": 38
+    },
+    {
+      "file": "a138_139.ncel",
+      "first": 138,
+      "last": 139,
+      "frames": 2,
+      "source": 39
+    },
+    {
+      "file": "a141_142.ncel",
+      "first": 141,
+      "last": 142,
+      "frames": 2,
+      "source": 40
+    },
+    {
+      "file": "a144_146.ncel",
+      "first": 144,
+      "last": 146,
+      "frames": 3,
+      "source": 41
+    },
+    {
+      "file": "a149_149.ncel",
+      "first": 149,
+      "last": 149,
+      "frames": 1,
+      "source": 43
+    },
+    {
+      "file": "a151_152.ncel",
+      "first": 151,
+      "last": 152,
+      "frames": 2,
+      "source": 44
+    },
+    {
+      "file": "a154_159.ncel",
+      "first": 154,
+      "last": 159,
+      "frames": 6,
+      "source": 45
+    },
+    {
+      "file": "a161_166.ncel",
+      "first": 161,
+      "last": 166,
+      "frames": 6,
+      "source": 46
+    },
+    {
+      "file": "a168_172.ncel",
+      "first": 168,
+      "last": 172,
+      "frames": 5,
+      "source": 47
+    },
+    {
+      "file": "a174_179.ncel",
+      "first": 174,
+      "last": 179,
+      "frames": 6,
+      "source": 48
+    },
+    {
+      "file": "a181_184.ncel",
+      "first": 181,
+      "last": 184,
+      "frames": 4,
+      "source": 49
+    },
+    {
+      "file": "a186_189.ncel",
+      "first": 186,
+      "last": 189,
+      "frames": 4,
+      "source": 50
+    },
+    {
+      "file": "a191_191.ncel",
+      "first": 191,
+      "last": 191,
+      "frames": 1,
+      "source": 51
+    },
+    {
+      "file": "a194_196.ncel",
+      "first": 194,
+      "last": 196,
+      "frames": 3,
+      "source": 53
+    },
+    {
+      "file": "a199_199.ncel",
+      "first": 199,
+      "last": 199,
+      "frames": 1,
+      "source": 56
+    },
+    {
+      "file": "a201_201.ncel",
+      "first": 201,
+      "last": 201,
+      "frames": 1,
+      "source": 57
+    },
+    {
+      "file": "a204_204.ncel",
+      "first": 204,
+      "last": 204,
+      "frames": 1,
+      "source": 59
+    },
+    {
+      "file": "a206_206.ncel",
+      "first": 206,
+      "last": 206,
+      "frames": 1,
+      "source": 60
+    },
+    {
+      "file": "a209_209.ncel",
+      "first": 209,
+      "last": 209,
+      "frames": 1,
+      "source": 62
+    },
+    {
+      "file": "a211_211.ncel",
+      "first": 211,
+      "last": 211,
+      "frames": 1,
+      "source": 63
+    },
+    {
+      "file": "a214_216.ncel",
+      "first": 214,
+      "last": 216,
+      "frames": 3,
+      "source": 65
+    },
+    {
+      "file": "a218_219.ncel",
+      "first": 218,
+      "last": 219,
+      "frames": 2,
+      "source": 66
+    },
+    {
+      "file": "a221_221.ncel",
+      "first": 221,
+      "last": 221,
+      "frames": 1,
+      "source": 67
+    },
+    {
+      "file": "a224_224.ncel",
+      "first": 224,
+      "last": 224,
+      "frames": 1,
+      "source": 69
+    },
+    {
+      "file": "a226_226.ncel",
+      "first": 226,
+      "last": 226,
+      "frames": 1,
+      "source": 70
+    },
+    {
+      "file": "a229_229.ncel",
+      "first": 229,
+      "last": 229,
+      "frames": 1,
+      "source": 72
+    },
+    {
+      "file": "a231_236.ncel",
+      "first": 231,
+      "last": 236,
+      "frames": 6,
+      "source": 73
+    },
+    {
+      "file": "a239_239.ncel",
+      "first": 239,
+      "last": 239,
+      "frames": 1,
+      "source": 75
+    },
+    {
+      "file": "a241_242.ncel",
+      "first": 241,
+      "last": 242,
+      "frames": 2,
+      "source": 76
+    },
+    {
+      "file": "a244_246.ncel",
+      "first": 244,
+      "last": 246,
+      "frames": 3,
+      "source": 77
+    },
+    {
+      "file": "a248_252.ncel",
+      "first": 248,
+      "last": 252,
+      "frames": 5,
+      "source": 78
+    },
+    {
+      "file": "a254_259.ncel",
+      "first": 254,
+      "last": 259,
+      "frames": 6,
+      "source": 79
+    },
+    {
+      "file": "a261_266.ncel",
+      "first": 261,
+      "last": 266,
+      "frames": 6,
+      "source": 80
+    },
+    {
+      "file": "a268_272.ncel",
+      "first": 268,
+      "last": 272,
+      "frames": 5,
+      "source": 81
+    },
+    {
+      "file": "a274_279.ncel",
+      "first": 274,
+      "last": 279,
+      "frames": 6,
+      "source": 82
+    },
+    {
+      "file": "a281_289.ncel",
+      "first": 281,
+      "last": 289,
+      "frames": 9,
+      "source": 83
+    },
+    {
+      "file": "a291_299.ncel",
+      "first": 291,
+      "last": 299,
+      "frames": 9,
+      "source": 85
+    }
+  ],
+  "authored_frames": 218,
+  "key_frames": 82,
+  "used_extras": 21,
+  "morphs": 0,
+  "dissolves": 0,
+  "landmarks": {
+    "x": [
+      [
+        0,
+        960
+      ],
+      [
+        7,
+        939
+      ],
+      [
+        10,
+        919
+      ],
+      [
+        13,
+        898
+      ],
+      [
+        17,
+        880
+      ],
+      [
+        20,
+        914
+      ],
+      [
+        27,
+        956
+      ],
+      [
+        30,
+        980
+      ],
+      [
+        33,
+        1005
+      ],
+      [
+        37,
+        985
+      ],
+      [
+        50,
+        960
+      ],
+      [
+        100,
+        960
+      ],
+      [
+        103,
+        920
+      ],
+      [
+        107,
+        860
+      ],
+      [
+        110,
+        960
+      ],
+      [
+        120,
+        960
+      ],
+      [
+        127,
+        960
+      ],
+      [
+        180,
+        960
+      ],
+      [
+        193,
+        970
+      ],
+      [
+        200,
+        960
+      ],
+      [
+        203,
+        960
+      ],
+      [
+        210,
+        960
+      ],
+      [
+        217,
+        960
+      ],
+      [
+        220,
+        1000
+      ],
+      [
+        227,
+        1170
+      ],
+      [
+        230,
+        1120
+      ],
+      [
+        237,
+        950
+      ],
+      [
+        240,
+        950
+      ]
+    ],
+    "y": [
+      [
+        0,
+        515
+      ],
+      [
+        37,
+        515
+      ],
+      [
+        50,
+        220
+      ],
+      [
+        100,
+        220
+      ],
+      [
+        103,
+        370
+      ],
+      [
+        107,
+        470
+      ],
+      [
+        110,
+        220
+      ],
+      [
+        117,
+        200
+      ],
+      [
+        120,
+        180
+      ],
+      [
+        127,
+        300
+      ],
+      [
+        140,
+        350
+      ],
+      [
+        180,
+        380
+      ],
+      [
+        193,
+        285
+      ],
+      [
+        197,
+        260
+      ],
+      [
+        200,
+        350
+      ],
+      [
+        203,
+        510
+      ],
+      [
+        207,
+        590
+      ],
+      [
+        210,
+        385
+      ],
+      [
+        213,
+        550
+      ],
+      [
+        217,
+        535
+      ],
+      [
+        220,
+        520
+      ],
+      [
+        223,
+        530
+      ],
+      [
+        227,
+        560
+      ],
+      [
+        230,
+        450
+      ],
+      [
+        237,
+        450
+      ],
+      [
+        240,
+        406
+      ]
+    ],
+    "head_height": [
+      [
+        0,
+        455
+      ],
+      [
+        37,
+        455
+      ],
+      [
+        50,
+        310
+      ],
+      [
+        100,
+        310
+      ],
+      [
+        107,
+        310
+      ],
+      [
+        120,
+        310
+      ],
+      [
+        127,
+        350
+      ],
+      [
+        193,
+        350
+      ],
+      [
+        197,
+        305
+      ],
+      [
+        200,
+        305
+      ],
+      [
+        203,
+        350
+      ],
+      [
+        240,
+        300
+      ]
+    ],
+    "angle": [
+      [
+        0,
+        0
+      ],
+      [
+        203,
+        0
+      ],
+      [
+        217,
+        0
+      ],
+      [
+        220,
+        5
+      ],
+      [
+        223,
+        10
+      ],
+      [
+        227,
+        19
+      ],
+      [
+        230,
+        12
+      ],
+      [
+        237,
+        0
+      ],
+      [
+        240,
+        0
+      ]
+    ]
+  },
+  "method": "v6 authored vectors + accepted AI in-between keys + symbolic f"
+}

@@ -1,0 +1,37 @@
+northcel "0.3.0-draft"
+
+scene StackedDrawing(width: 645, height: 765, fps: 24, precision: 0.25px-b63) {
+  palette { c0: #FEFEFE, c1: #111416, c2: #5A3A26, c3: #BFE6F4, c4: #969696 }
+  paper { color: $c0, antialias_grid: 4 }
+  layer s7324f31f09(color: $c1) { "1346,2092:4V5V4VRRFVFVBNBV0I1H0I7FFFFN11J7B7I4H5I4VJRRRBNJP9P9NJVNNFTDTDRRVJRRRB8Q8Q9DVNNNJ7VNNFVJRRV0V0V0V0ZRVDVDZRVJhBfLlNdVjLV7ZRV8V9V8dFVNRRVDVDZRW8X9W8h3Z7hBd3d3l1l1tBdBpBZBy4y4lJlJdVlNlNpVpVpNpNzVzVZRvVvVuVvVuVZZxZldhVhddVqirjqilhlhptlZmmmmhnhnZhddjxjxVdhpVdfvfvVhdlVhZZVhdpVlZZVtZZVtZZVlVlZZTvRBRBUwUwZdRZVhvjvvdhVtZZVlZZVvVvVuVvVuRZVtVtJt1zJdNVPbTrTrRZVlRZRxRZPrPrJpVdJrJrFqFrFq8r7r8rRVDlDl7i7j7iNVFdJV7hNV3hFV" }
+  layer sad8c9c463e(color: $c0) { "1334,2072:ZRpVZRhVZRhVZRpRhNxNdNvJvJhJxFx3tFz1VRr5r5g8f9g8VNdBdBXDXDZRX3X3ZRV1V1ZRV3RRVNZRV4V4V4V4LPTLFJV2V2V2V3V2NNVFRRU3U3U3U3RRV3RRTBTBRRVNNVZJJ7LL3FPLPTPLPTTP6666JRBBBBJNFRFJFJNZBVRRLXllVdLfBVRRBVRZBVBVRRFVRR7V7V7VRRFVFPFPPPVJzTZZlXlXXTPP7L7LBVRZJVFl7lJV9rFxDnHLVNPPHfLnLnRpLpLpVhBxVdRZVhZZVxRZVlPlPlTzTzRZVpRZVyVyVyVyPbLTVxRZTxTxRZVhNpZdVxVxVxVxZZXvXvZZVdddZzZzdhZxdhVdhxZxddZlZlgsfrgsltltywywththpZphhVZZhVpdlVZZtVZZ" }
+  layer s6280fe2a59(color: $c0) { "1766,1620:o8o8X1X1ZRU4U4T5U4T5U4NFLLJVLbVlZZVxVxVxVxVxVxVxNpZZ" }
+  layer s55fe806a1c(color: $c0) { "866,1616:W6W6PFPFVAV9VARNFJV9V9ZRVFVFZRUCUCRhFVHjVhRZZZRZVxRZVzVzVzVzdhZnZnhpnj" }
+  layer s28df0a342c(color: $c1) { "1180,1734:XPpVZZwVvVwVZRpVpVtJfXVhLfFdFVFVRZ9V9VRZBVRRBVRRNV" }
+  layer s3121fbb6ed(color: $c1) { "1490,1340:FRHHVBr5lVbbVdddVt" }
+  layer s5770930af4(color: $c1) { "1070,1340:7RLDZ7fPtVdZfjRp" }
+  layer s8d6364177f(color: $c1) { "1270,1508:NZ7VLLRBRRZRVBbLbXVpVpjjhVnHRNZRRRZRNBfTfjTlTl" }
+  layer s2562376df5(color: $c1) { "1536,1174:PbJVRRBVRR3VRZJVPPbPpNpVpVpd" }
+  layer sd9ceb8dd67(color: $c1) { "1008,1186:fLlNpVZRxVbfTf7V7VRZFVRZ" }
+  layer s785a654aae(color: $c1) { "1288,1810:TfFVPPbP" }
+  layer s4f306cdff5(color: $c2) { "1718,1312:U6T5U6bb" }
+  layer sd20f0da6bf(color: $c3) { "1556,2002:v9bX9n" }
+  layer sd3f57e06cb(color: $c4) { "1770,1276:PLZNRRXLbbRldV" }
+  layer sd2544cb7d6(color: $c4) { "1546,872:EEEEXTmmmm" }
+  layer sa6f13e0a45(color: $c3) { "1598,1976:PPnDbbTXRRPbZZTXRRPbZZ" }
+  layer s351b645a35(color: $c4) { "882,1068:ZDZDXjRZVh" }
+  layer s5278459fac(color: $c2) { "1606,924:55XTvv" }
+  layer s0149d88ed8(color: $c2) { "854,1204:TDbPXf" }
+  layer s7aeaceba05(color: $c2) { "1590,1972:TTv5XX" }
+  layer sbc6d034cda(color: $c4) { "954,864:TPbTdJTj" }
+  layer sf1a5668bef(color: $c4) { "1814,1328:99XTrr" }
+  layer s11a335bb2e(color: $c4) { "1790,1624:TTr9XX" }
+  layer s915c75ab38(color: $c4) { "1562,1968:TTr9XX" }
+  layer s0773c87db9(color: $c3) { "1638,960:99XTrr" }
+  layer sfc11d5495c(color: $c2) { "1590,876:LLfLXXNddZ" }
+  layer sd0b242519c(color: $c4) { "1546,836:LLTLjn" }
+  layer sf5aaf9801d(color: $c4) { "1566,1996:TTnDXX" }
+  layer s82a0d2c04c(color: $c4) { "1208,726:Tb9T" }
+  layer s2e1e399d03(color: $c4) { "1084,766:XTZZZNbXLf" }
+  layer saefbcdaf1e(color: $c2) { "1098,768:TTZRRRXTZZZNXb" }
+}
